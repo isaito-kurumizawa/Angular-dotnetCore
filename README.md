@@ -1,0 +1,2 @@
+# Angular-dotnetCore
+.Net CoreでAngularプロジェクトのサンプル
